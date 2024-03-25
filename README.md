@@ -1,5 +1,9 @@
 Habitmakr is a Projects i'm working on, which helps you to stay on top of New habits.
 
+Here is a short blog on how i used Capacitor to convert this web app to native Ios:
+
+https://code-by-crystal.medium.com/convert-your-existing-react-js-app-into-an-ios-android-app-using-ionic-capacitor-9c8abdfe5dec
+
 ![Untitled design](https://github.com/crystalz411/habitmakr/assets/43583741/81dc9ff6-f5ec-4fc1-8808-32c159433bc5)
 
 

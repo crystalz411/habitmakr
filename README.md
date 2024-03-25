@@ -1,3 +1,9 @@
+Habitmakr is a Projects i'm working on, which helps you to stay on top of New habits.
+
+![Untitled design](https://github.com/crystalz411/habitmakr/assets/43583741/81dc9ff6-f5ec-4fc1-8808-32c159433bc5)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
